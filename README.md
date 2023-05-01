@@ -2,4 +2,4 @@
 Python learning materials
 
 
-Lambda function 
+Lambda function  : https://github.com/huseyincenik/learn_python/blob/main/lambda_function/lambda_functions.ipynb
